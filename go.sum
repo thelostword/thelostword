@@ -1,0 +1,4 @@
+github.com/golang/go v0.0.0-20220816015423-5e7697b6275b h1:EGPBo1gxzzbv/L+IUf/VtxCFRWDEoqSogiJ9Fmw8/XQ=
+github.com/golang/go v0.0.0-20220816015423-5e7697b6275b/go.mod h1:VnTjtYw+XLkxokOYpCb9NBW3cOTFO8+uqxF7o10XJQk=
+github.com/rust-lang/rust v0.0.0-20220724185531-7fe022f5aa32 h1:NZ2ErH6CJbSsCH+LDGVI+eDbYqHNrdLow33O69tzz4w=
+github.com/rust-lang/rust v0.0.0-20220724185531-7fe022f5aa32/go.mod h1:3UxfsJoh4G70RSlhXISM7IJzJfTdrs63XFM47nyODZQ=
