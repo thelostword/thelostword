@@ -16,11 +16,8 @@
   ],
   "author": "thelostword",
   "license": "MIT",
-  "dependencies": {
-    "three": "^0.146.0"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "sass": "^1.56.1",
     "vite": "^3.2.4"
   }
 }
