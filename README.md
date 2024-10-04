@@ -31,15 +31,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 August 2022 - To: 26 September 2024
+From: 15 August 2022 - To: 03 October 2024
 
-Total Time: 2,423 hrs 24 mins
+Total Time: 2,442 hrs
 
-Vue.js                     865 hrs 7 mins  ﹏﹏﹏﹏﹏﹏﹏﹏⛴﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏   35.70 %
-JavaScript                 614 hrs 49 mins ﹏﹏﹏﹏﹏﹏⛴﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏   25.37 %
-TypeScript                 197 hrs 44 mins ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏   08.16 %
-Rust                       188 hrs 20 mins ﹏⛴﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏   07.77 %
-Markdown                   123 hrs 10 mins ﹏⛴﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏   05.08 %
+Vue.js                     874 hrs 45 mins ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏   35.82 %
+JavaScript                 617 hrs 24 mins ﹏﹏﹏﹏﹏﹏⛴﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏   25.28 %
+TypeScript                 197 hrs 45 mins ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏   08.10 %
+Rust                       193 hrs 8 mins  ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏   07.91 %
+JSON                       124 hrs 4 mins  ﹏⛴﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏   05.08 %
 ```
 
 <!--END_SECTION:waka-->
