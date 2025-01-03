@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 August 2022 - To: 26 December 2024
+From: 15 August 2022 - To: 02 January 2025
 
-Total Time: 2,805 hrs 56 mins
+Total Time: 2,806 hrs
 
 Vue.js                     970 hrs 40 mins ﹏﹏﹏﹏﹏﹏﹏﹏⛴﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏   34.59 %
 JavaScript                 661 hrs 21 mins ﹏﹏﹏﹏﹏⛴﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏   23.57 %
