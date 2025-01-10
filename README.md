@@ -31,14 +31,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 August 2022 - To: 02 January 2025
+From: 15 August 2022 - To: 09 January 2025
 
-Total Time: 2,806 hrs
+Total Time: 2,806 hrs 52 mins
 
-Vue.js                     970 hrs 40 mins ﹏﹏﹏﹏﹏﹏﹏﹏⛴﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏   34.59 %
-JavaScript                 661 hrs 21 mins ﹏﹏﹏﹏﹏⛴﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏   23.57 %
+Vue.js                     970 hrs 40 mins ﹏﹏﹏﹏﹏﹏﹏﹏⛴﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏   34.58 %
+JavaScript                 661 hrs 31 mins ﹏﹏﹏﹏﹏⛴﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏   23.57 %
 Rust                       335 hrs 5 mins  ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏   11.94 %
-TypeScript                 200 hrs 28 mins ﹏⛴﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏   07.14 %
+TypeScript                 200 hrs 36 mins ﹏⛴﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏   07.15 %
 JSON                       141 hrs 39 mins ﹏⛴﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏   05.05 %
 ```
 
